@@ -1,0 +1,13 @@
+[package]
+name = "macos-haptics"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+block = "0.1.6"
+cocoa = "0.25.0"
+
+[build-dependencies]
+cc = "1.0"
