@@ -1,4 +1,4 @@
-# MacOS Haptics
+# macOS Haptics
 
 This was a simple script to help me learn how Haptic Feedback works on macOS with the Force Touch trackpads.
 
