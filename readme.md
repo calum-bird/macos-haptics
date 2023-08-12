@@ -1,6 +1,6 @@
 # MacOS Haptics
 
-This was a simple script to help me learn how Haptic Feedback works on MacOs with the Force Touch trackpads.
+This was a simple script to help me learn how Haptic Feedback works on macOS with the Force Touch trackpads.
 
 > macOS 10.11+ is required for this to work, along with a trackpad that supports Force Touch.
 
